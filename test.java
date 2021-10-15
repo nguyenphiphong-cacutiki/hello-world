@@ -8,8 +8,6 @@ public class test {
 
 	public static void main(String[] args) {
 		
-//		System.out.println(chuyentuthapphansanghe_b(325.125,2));
-//		System.out.println(chuyentuhe_b_sanghethapphan("101000101.001",2));
 		Scanner scan = new Scanner(System.in);
 		System.out.println("----------- MENU -----------");
 		System.out.println("moi ban lua chon chuc nang:");
